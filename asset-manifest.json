@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-app/static/css/main.1372d4b8.css",
+    "main.js": "/todo-app/static/js/main.ce33d72a.js",
+    "static/js/787.1f7b163c.chunk.js": "/todo-app/static/js/787.1f7b163c.chunk.js",
+    "static/media/vintage-crumpled-paper-textured-background.jpg": "/todo-app/static/media/vintage-crumpled-paper-textured-background.12d9bbec01338cef6e5e.jpg",
+    "index.html": "/todo-app/index.html",
+    "main.1372d4b8.css.map": "/todo-app/static/css/main.1372d4b8.css.map",
+    "main.ce33d72a.js.map": "/todo-app/static/js/main.ce33d72a.js.map",
+    "787.1f7b163c.chunk.js.map": "/todo-app/static/js/787.1f7b163c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1372d4b8.css",
+    "static/js/main.ce33d72a.js"
+  ]
+}
